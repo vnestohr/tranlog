@@ -1,0 +1,29 @@
+{
+  "name": "tranlog",
+  "version": "0.0.1",
+  "description": "Flexible log file with capability of per-transaction logging.",
+  "main": "./src/tranlog.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "./test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vnestohr/tranlog.git"
+  },
+  "keywords": [
+    "Transaction",
+    "Operation",
+    "Logging",
+    "Log",
+    "File"
+  ],
+  "author": "V. Nestohr",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/vnestohr/tranlog/issues"
+  },
+  "homepage": "https://github.com/vnestohr/tranlog#readme"
+}
